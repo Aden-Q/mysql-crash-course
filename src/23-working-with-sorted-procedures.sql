@@ -1,1 +1,1 @@
--- Chapter 23: Working with Sorted Procedures
+-- Chapter 23 Working with Sorted Procedures

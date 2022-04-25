@@ -1,1 +1,1 @@
--- Chapter 2: Introducing MySQL
+-- Chapter 2 Introducing MySQL

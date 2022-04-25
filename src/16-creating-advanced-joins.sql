@@ -1,1 +1,1 @@
--- Chapter 16: Creating Advanced Joins
+-- Chapter 16 Creating Advanced Joins

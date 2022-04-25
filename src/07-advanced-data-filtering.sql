@@ -1,1 +1,1 @@
--- Chapter 7: Advanced Data Filtering
+-- Chapter 7 Advanced Data Filtering

@@ -1,1 +1,1 @@
--- Chapter 5: Sorting Retrieved Data
+-- Chapter 5 Sorting Retrieved Data

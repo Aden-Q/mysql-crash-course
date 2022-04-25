@@ -1,1 +1,1 @@
--- Chapter 27: Globalization and Localization
+-- Chapter 27 Globalization and Localization

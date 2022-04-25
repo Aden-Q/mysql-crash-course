@@ -1,1 +1,1 @@
--- Chapter 28: Managing Security
+-- Chapter 28 Managing Security

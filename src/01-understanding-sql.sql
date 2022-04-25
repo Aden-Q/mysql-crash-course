@@ -1,1 +1,1 @@
--- Chapter 1: Understanding SQL
+-- Chapter 1 Understanding SQL

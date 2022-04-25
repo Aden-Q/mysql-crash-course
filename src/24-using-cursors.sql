@@ -1,1 +1,1 @@
--- Chapter 24: Using Cursors
+-- Chapter 24 Using Cursors

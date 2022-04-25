@@ -1,1 +1,1 @@
--- Chapter 12: Summarizing Data
+-- Chapter 12 Summarizing Data

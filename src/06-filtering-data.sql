@@ -1,1 +1,1 @@
--- Chapter 6: Filtering Data
+-- Chapter 6 Filtering Data

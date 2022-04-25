@@ -1,1 +1,1 @@
--- Chapter 9: Searching Using Regular Expressions
+-- Chapter 9 Searching Using Regular Expressions

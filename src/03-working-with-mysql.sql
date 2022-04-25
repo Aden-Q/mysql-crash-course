@@ -1,4 +1,4 @@
--- Chapter 3: Working with MySQL
+-- Chapter 3 Working with MySQL
 
 -- show databases
 SHOW DATABASES;

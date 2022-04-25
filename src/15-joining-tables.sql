@@ -1,1 +1,1 @@
--- Chapter 15: Joining Tables
+-- Chapter 15 Joining Tables

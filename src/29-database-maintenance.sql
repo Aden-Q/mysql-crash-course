@@ -1,1 +1,1 @@
--- Chapter 29: Database Maintenance
+-- Chapter 29 Database Maintenance

@@ -1,1 +1,1 @@
--- Chapter 26: Managing Transaction Processing
+-- Chapter 26 Managing Transaction Processing

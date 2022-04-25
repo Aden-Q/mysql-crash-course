@@ -1,1 +1,1 @@
--- Chapter 18: Full Text Searching
+-- Chapter 18 Full Text Searching

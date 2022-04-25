@@ -1,1 +1,1 @@
--- Chapter 25: Using Triggers
+-- Chapter 25 Using Triggers

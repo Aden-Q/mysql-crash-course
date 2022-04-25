@@ -1,1 +1,1 @@
--- Chapter 4: Retrieving Data
+-- Chapter 4 Retrieving Data

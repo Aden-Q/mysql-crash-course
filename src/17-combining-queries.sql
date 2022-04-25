@@ -1,1 +1,1 @@
--- Chapter 17: Combining Queries
+-- Chapter 17 Combining Queries

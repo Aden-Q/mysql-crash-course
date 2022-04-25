@@ -1,1 +1,1 @@
--- Chapter 21: Creating and Manipulating Tables
+-- Chapter 21 Creating and Manipulating Tables
