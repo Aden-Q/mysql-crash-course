@@ -1,5 +1,5 @@
 # MySQL Crash Course
-MySQL Crash Course reading notes
+MySQL Crash Course source code and [reading notes](https://lyrics-reading.notion.site/lyrics-reading/138d4fbdbd034eb6b7a6b99630998679?v=bd6c8105a7b74cc7969b5ed4728a659b)
 
 [![Travis](https://img.shields.io/badge/language-SQL-green.svg)]()
 
@@ -10,12 +10,12 @@ MySQL Crash Course reading notes
 - [x] 第1章 了解SQL
 - [x] 第2章 MySQL简介
 - [x] 第3章 使用MySQL
-- [ ] 第4章 检索数据
-- [ ] 第5章 排序检索数据
-- [ ] 第6章 过滤数据
-- [ ] 第7章 数据过滤
-- [ ] 第8章 用通配符进行过滤
-- [ ] 第9章 用正则表达式进行搜索
+- [x] 第4章 检索数据
+- [x] 第5章 排序检索数据
+- [x] 第6章 过滤数据
+- [x] 第7章 数据过滤
+- [x] 第8章 用通配符进行过滤
+- [x] 第9章 用正则表达式进行搜索
 - [ ] 第10章 创建计算字段
 - [ ] 第11章 使用数据处理函数
 - [ ] 第12章 汇总数据
