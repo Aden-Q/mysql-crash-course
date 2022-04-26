@@ -1,7 +1,6 @@
 -- Chapter 14 Working with Subqueries
 
 -- subquery
-
 SELECT cust_name, cust_contact
 FROM customers
 WHERE cust_id IN
