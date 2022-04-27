@@ -28,7 +28,7 @@ MySQL Crash Course source code and [reading notes](https://lyrics-reading.notion
 - [X] 第18章 全文本搜索
 - [X] 第19章 插入数据
 - [X] 第20章 更新和删除数据
-- [ ] 第21章 创建和操纵表
+- [X] 第21章 创建和操纵表
 - [ ] 第22章 使用视图
 - [ ] 第23章 使用存储过程
 - [ ] 第24章 使用游标
