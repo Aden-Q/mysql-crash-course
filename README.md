@@ -34,10 +34,10 @@ MySQL Crash Course source code and [reading notes](https://lyrics-reading.notion
 - [X] 第24章 使用游标
 - [X] 第25章 使用触发器
 - [X] 第26章 管理事务处理
-- [ ] 第27章 全球化和本地化
-- [ ] 第28章 安全管理
-- [ ] 第29章 数据库维护
-- [ ] 第30章 改善性能
+- [X] 第27章 全球化和本地化
+- [X] 第28章 安全管理
+- [X] 第29章 数据库维护
+- [X] 第30章 改善性能
 
 ## Credits
 

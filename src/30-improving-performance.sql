@@ -1,1 +1,7 @@
 -- Chapter 30 Improving Performance
+
+SHOW VARIABLES;
+
+SHOW STATUS;
+
+SHOW PROCESSLIST;
