@@ -33,7 +33,7 @@ MySQL Crash Course source code and [reading notes](https://lyrics-reading.notion
 - [X] 第23章 使用存储过程
 - [X] 第24章 使用游标
 - [X] 第25章 使用触发器
-- [ ] 第26章 管理事务处理
+- [X] 第26章 管理事务处理
 - [ ] 第27章 全球化和本地化
 - [ ] 第28章 安全管理
 - [ ] 第29章 数据库维护
