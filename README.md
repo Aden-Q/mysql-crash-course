@@ -1,6 +1,6 @@
 # MySQL Crash Course
 
-MySQL Crash Course source code and [reading notes](https://lyrics-reading.notion.site/lyrics-reading/138d4fbdbd034eb6b7a6b99630998679?v=bd6c8105a7b74cc7969b5ed4728a659b)
+MySQL Crash Course source code and [reading notes](https://lyrics-reading.notion.site/MySQL-Crash-Course-345f5fe65dfd416fbba694e427dd426b)
 
 [![Travis](https://img.shields.io/badge/language-SQL-green.svg)]()
 
